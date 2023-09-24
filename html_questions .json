@@ -1,0 +1,26 @@
+[
+    {
+        "title":"Why are you use <br> Element",
+        "answer_1":"To make text bold",
+        "answer_2":"To make text italic",
+        "answer_3":"To Add BreakLine",
+        "answer_4":"To make text undelined",
+        "right_answer":"To Add BreakLine"
+    },
+    {
+        "title":"Is <img> Element Has Attribute href",
+        "answer_1":"Yes",
+        "answer_2":"No it's for anchor Tag <a>",
+        "answer_3":"All Elements has this attribute",
+        "answer_4":"answer 1 and 3 ",
+        "right_answer":"No it's for anchor Tag <a>"
+    },
+    {
+        "title":"How can we make Element Text Bold",
+        "answer_1":"Putting inside <b> tag",
+        "answer_2":"Putting inside <strong> tag",
+        "answer_3":"Customizing it with Font-Weight properly in CSS",
+        "answer_4":"All answers are right",
+        "right_answer":"All answers are right"
+    }
+]
